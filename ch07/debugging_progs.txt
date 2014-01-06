@@ -1,0 +1,21 @@
+List from practical C++ pgs 99-100
+
+Cross-referencers
+ xref
+ cxref
+ cross
+
+Program intenters
+ indent
+ cb
+
+Pretty printers
+ vgrind
+ cprint
+
+Call Graphs
+ cflow
+ calls
+
+Class Browsers
+ <none listed>

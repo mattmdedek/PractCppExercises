@@ -1,0 +1,13 @@
+#
+# Make file
+# 
+CC=g++
+CFLAGS=-g -Wall
+all: MYCLASS
+
+MYCLASS: MYCLASS.cpp
+	$(CC) $(CFLAGS) MYCLASS.cpp -o MYCLASS
+
+clean:
+	rm MYCLASS
+

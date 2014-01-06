@@ -1,0 +1,1 @@
+g++ -Wall -W -Werror -std=c++0x array_test.cpp -o array_test
